@@ -1,0 +1,51 @@
+Variable Name,Example,DataType,DataCat
+CaseOrder,1,int64,Quantitative
+Customer_id,K409198,object,Qualitative
+Interaction,aa90260b-4141-4a24-8e36-b04ce1f4f77b,object,Qualitative
+UID,e885b299883d4f9fb18e39c75155d990,object,Qualitative
+City,Point Baker,object,Qualitative
+State,AK,object,Qualitative
+County,Prince of Wales-Hyder,object,Qualitative
+Zip,99927,int64,Qualitative
+Lat,56.251,float64,Quantitative
+Lng,-133.37571,float64,Quantitative
+Population,38,int64,Quantitative
+Area,Urban,object,Qualitative
+TimeZone,America/Sitka,object,Qualitative
+Job,Environmental health practitioner,object,Qualitative
+Children,0,int64,Quantitative
+Age,68,int64,Quantitative
+Income,28561.99,float64,Quantitative
+Marital,Widowed,object,Qualitative
+Gender,Male,object,Qualitative
+Churn,No,object,Qualitative
+Outage_sec_perweek,7.978322947,float64,Quantitative
+Email,10,int64,Quantitative
+Contacts,0,int64,Quantitative
+Yearly_equip_failure,1,int64,Quantitative
+Techie,No,object,Qualitative
+Contract,One year,object,Qualitative
+Port_modem,Yes,object,Qualitative
+Tablet,Yes,object,Qualitative
+InternetService,Fiber Optic,object,Qualitative
+Phone,Yes,object,Qualitative
+Multiple,No,object,Qualitative
+OnlineSecurity,Yes,object,Qualitative
+OnlineBackup,Yes,object,Qualitative
+DeviceProtection,No,object,Qualitative
+TechSupport,No,object,Qualitative
+StreamingTV,No,object,Qualitative
+StreamingMovies,Yes,object,Qualitative
+PaperlessBilling,Yes,object,Qualitative
+PaymentMethod,Credit Card (automatic),object,Qualitative
+Tenure,6.795512947,float64,Quantitative
+MonthlyCharge,172.455519,float64,Quantitative
+Bandwidth_GB_Year,904.5361102,float64,Quantitative
+Item1,5,int64,Qualitative
+Item2,5,int64,Qualitative
+Item3,5,int64,Qualitative
+Item4,3,int64,Qualitative
+Item5,4,int64,Qualitative
+Item6,4,int64,Qualitative
+Item7,3,int64,Qualitative
+Item8,4,int64,Qualitative
